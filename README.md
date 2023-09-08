@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liuzhaochen
-- 👀 I’m interested in topological physics, moir/'e system and correlations.
+- 👀 I’m interested in topological physics, moiré systems and correlations.
 - 🌱 I’m currently learning fractionalization.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
